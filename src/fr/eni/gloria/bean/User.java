@@ -10,6 +10,6 @@ package fr.eni.gloria.bean;
  * @date 31 juil. 2017
  * @version GloriaProject V1.0
  */
-public class TestASupprimer {
+public class User {
 
 }
