@@ -1,0 +1,10 @@
+Convention de nommage
+
+Application:
+methodes, attributs, classes: en anglais, lowerCamelCase.
+beans: serializable, getters/setters, constructeur vide, javadoc !!
+
+fonctions: on les externalise.
+
+BdD:
+tables: noms en anglais, au pluriel, lower_snake_case
